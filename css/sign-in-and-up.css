@@ -130,7 +130,7 @@ input {
 
 input:focus {
     /* border-color: #3692FF; */
-    outline-color: #3692FF;
+    outline-color: var(--blue);
 }
 
 .fa-eye {
